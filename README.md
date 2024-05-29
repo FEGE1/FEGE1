@@ -1,6 +1,6 @@
 <h3>Hi👋, I'm</h3>
 
-<span style="font-size:0.5em;">Ege</span>
+<h1>Ege</h1>
 
 <!--
 **FEGE1/FEGE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on web site with django [My_Blog_Site](https://github.com/FEGE1/My_Blog_Site)
 
 - 📫 How to reach me **f.ege.eryigit@gmail.com**
-
+<hr>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FEGE1)](https://github.com/FEGE1/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
